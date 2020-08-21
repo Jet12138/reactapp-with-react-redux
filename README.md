@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# 参考学习的例子地址是：
+
+https://codesandbox.io/s/9on71rvnyo
+
+#肖宗杰 2020/8/20
 
 ## Available Scripts
 
